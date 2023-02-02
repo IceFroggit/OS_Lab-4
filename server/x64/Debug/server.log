@@ -1,0 +1,3 @@
+﻿  server.cpp
+C:\Users\aikak\Desktop\Test\OS_LAB4\server\server.cpp(31,61): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  server.vcxproj -> C:\Users\aikak\Desktop\Test\OS_LAB4\x64\Debug\server.exe
